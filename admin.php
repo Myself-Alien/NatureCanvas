@@ -79,11 +79,11 @@
                 <div>
                     <div class="container-fluid mt-4">
                         <div class="col-md">
-                            <form action="blog_action.php" method="post">
+                            <form action="blog_action.php" method="post" enctype="multipart/form-data">
                                 <pre><input type="text" name="bname" placeholder="Name" class="form-control" required></pre>
                                 <pre><input type="text" name="title" placeholder="Title" class="form-control" required></pre>
                                 <pre><textarea name="dec" placeholder="Content" class="form-control" rows="4" required></textarea></pre>
-                                <pre><input type="file" name="img" class="form-control"></pre>
+                                <pre><input type="file" name="img" accept="image/*" class="form-control"></pre>
                                 <pre><input type="date" name="date" class="form-control" required></pre>
                                 <pre><input type="submit" name="sub" class="btn btn-primary green_btn"></pre>
                             </form>
