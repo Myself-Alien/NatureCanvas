@@ -1,0 +1,134 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+body {
+  font-family: "Roboto", sans-serif !important;
+  font-style: normal;
+}
+.top_pen {
+  background-color: #1a3636;
+}
+.logo {
+  font-weight: 900;
+  color: #d6bd98;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+.slogan {
+  font-size: 14px !important;
+}
+.navbar-custom {
+  background-color: #d6bd98 !important;
+}
+ul.main_menu > li > a {
+  color: #1a3636 !important;
+}
+#topbtn {
+  background-color: #d6bd98 !important;
+  color: #1a3636 !important;
+  border-color: #1a3636 !important;
+}
+.card_noborder {
+  border-color: #fff !important;
+}
+.blog_img > img {
+  border-radius: 6px;
+}
+.card-body {
+  padding-top: 0px !important;
+}
+
+.blog_icons > label {
+  margin-left: 5px;
+}
+.admin_sidebar {
+  background-color: #1a3636;
+}
+ul.admin_sidebar_clr > li > a > span,
+svg {
+  color: #d6bd98;
+}
+.admin_menu_text {
+  color: #d6bd98;
+}
+.admin_main {
+  background-color: #eee9e1;
+  padding: 0rem !important;
+}
+#menu li a {
+  color: #fff;
+}
+.admin_wc {
+  text-indent: 0px;
+  padding: 15px;
+  background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%) !important;
+}
+.admin_wc > h5 > a {
+  text-decoration: none;
+  color: #d6bd98;
+}
+.admin_wc > h5 {
+  margin: 0px !important;
+  padding: 0px !important;
+}
+.main_footer {
+  background-color: #1a3636;
+  color: #d6bd98;
+  padding-bottom: 35px;
+  padding-top: 35px;
+}
+.tags {
+  border-radius: 20px !important;
+  border: 1px solid #d6bd98 !important;
+  outline: none !important;
+  margin: 5px;
+  color: #d6bd98;
+  background-color: transparent !important;
+}
+.footer_heading {
+  padding-bottom: 10px;
+  color: #d6bd98;
+}
+.footer_bottom {
+  background-color: #677d6a;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.footer_bottm {
+  text-align: center;
+  margin: auto;
+  color: #d6bd98;
+}
+.hr1 {
+  margin: 0px !important;
+  padding: 0px !important;
+  color: #000 #000 !important;
+  background-color: #000 !important;
+}
+.login_wrapper {
+  background-color: #d6bd98;
+  border-radius: 10px;
+  font-family: roboto;
+}
+.login_wrapper > h2 {
+  font-weight: 900;
+  color: #1a3636;
+}
+.login_main {
+  background-color: #1a3636;
+}
+.login_top_text {
+  padding-bottom: 45px !important;
+}
+.login_btn {
+  margin-top: 13px;
+}
+.green_btn {
+  background-color: #1a3636 !important;
+  color: #d6bd98 !important;
+  border-color: #1a3636 !important;
+}
+.center_warnning > p {
+  text-align: center;
+  margin: 0 auto;
+  color: red;
+}
